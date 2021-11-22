@@ -8,7 +8,7 @@
 
 ## General Info:
 
-These are a series of problems with progressive difficulty levels provided by CS50 course.
+This is a series of problems with progressive difficulty levels provided by CS50 course.
 
 Every problem had to pass their own tests provided by CS50 developers. 
 
